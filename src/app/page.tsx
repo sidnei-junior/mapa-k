@@ -1,4 +1,4 @@
-import KMap from "@/components/KMap";
+import { KMap } from "@/components/KMap";
 import { TechnicalContent } from "@/components/TechnicalContent";
 
 export default function Home() {

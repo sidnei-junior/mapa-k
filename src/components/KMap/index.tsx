@@ -1,6 +1,6 @@
 'use client';
 
-export default function KMap() {
+export function KMap() {
   return (
     <div className="min-h-screen flex flex-col">
       {/* Área principal com mapa-k e espaços para ads */}
@@ -30,4 +30,4 @@ export default function KMap() {
       </div>
     </div>
   );
-}
+} 
